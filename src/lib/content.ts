@@ -23,7 +23,7 @@ export const projects = [
     tools: "Next.js · React · TypeScript · Cloudflare",
     href: "https://barbershop-system.faizhashim61.workers.dev/login",
     action: "open project",
-    image: "/images/barbershop-system.png",
+    image: "/images/barbershop-system.webp",
   },
   {
     id: "fzl-kitchen",
@@ -41,7 +41,7 @@ export const projects = [
     tools: "Next.js · React · Cloudflare",
     href: "https://fzlkitchen.pages.dev/",
     action: "visit site",
-    image: "/images/fzl-kitchen.png",
+    image: "/images/fzl-kitchen.webp",
   },
   {
     id: "norisah-selera",
@@ -59,7 +59,7 @@ export const projects = [
     tools: "Next.js · React · Cloudflare",
     href: "https://norisahseleradesa.pages.dev/",
     action: "visit site",
-    image: "/images/norisah-selera-desa.png",
+    image: "/images/norisah-selera-desa.webp",
   },
 ] as const;
 

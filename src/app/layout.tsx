@@ -33,6 +33,9 @@ export const metadata: Metadata = {
   title: "Faiz Hashim — Websites + useful systems",
   description:
     "Fresh Information Content Management graduate from UiTM. I build simple websites and useful business systems, with Codex along the way.",
+  icons: {
+    icon: "/icon.webp",
+  },
 };
 
 export default function RootLayout({

@@ -13,7 +13,7 @@ Open the local URL printed in the terminal.
 
 ## Add your images
 
-Place your portrait and three screenshots in `public/images/`. In `src/lib/content.ts`, set `profile.portrait` and each project's `image` to a path such as `/images/portrait.jpg` or `/images/barbershop.png`.
+Place your portrait and three screenshots in `public/images/` as WebP files. In `src/lib/content.ts`, set `profile.portrait` and each project's `image` to a path such as `/images/portrait.webp` or `/images/barbershop.webp`.
 
 The portrait is reused in Home, About and Contact. Empty strings intentionally display empty, labelled frames. Portraits fill their frame; screenshots keep their original proportions without cropping. Update the alt text in `src/app/page.tsx` if needed.
 

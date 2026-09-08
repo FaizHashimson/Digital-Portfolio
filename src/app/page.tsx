@@ -38,7 +38,7 @@ export default function HomePage() {
                 kind="portrait"
                 label="Line portrait of Faiz Hashim"
                 alt="White line portrait of Faiz Hashim holding a cup of ice cream"
-                src="/images/faiz-dark-line-portrait.png"
+                src="/images/faiz-dark-line-portrait.webp"
                 className="dark-line-portrait"
               />
             </div>
@@ -57,7 +57,7 @@ export default function HomePage() {
                 kind="portrait"
                 label="Illustrated portrait of Faiz Hashim"
                 alt="Line illustration of Faiz Hashim holding a cup of ice cream"
-                src="/images/faiz-about-illustration.png"
+                src="/images/faiz-about-illustration.webp"
                 className="about-illustration"
               />
             </div>
