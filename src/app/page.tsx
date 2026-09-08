@@ -137,7 +137,8 @@ export default function HomePage() {
                 >
                   {project.id === "norisah-selera" ? (
                     <>
-                      <span className="project-number">{project.number} /</span>{" "}
+                      <span className="project-number">{project.number}</span>
+                      <span className="norisah-heading-slash" aria-hidden="true">/</span>
                       <span className="norisah-heading-first">Norisah</span>{" "}
                       <span className="norisah-heading-rest">Selera Desa</span>
                     </>

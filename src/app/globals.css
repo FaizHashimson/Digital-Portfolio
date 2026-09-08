@@ -522,11 +522,18 @@ ul {
 .project--norisah-selera .project-number {
   margin: 0;
 }
+.norisah-heading-slash {
+  display: inline-block;
+  margin-left: 0.13em;
+  margin-right: 0.02em;
+  transform: scaleY(1.14);
+  transform-origin: center;
+}
 @media (min-width: 1101px) {
   .project--norisah-selera .project-heading {
     display: flex;
     flex-wrap: wrap;
-    column-gap: 0.25em;
+    column-gap: 0;
   }
   .project--norisah-selera .norisah-heading-rest {
     flex-basis: 100%;
