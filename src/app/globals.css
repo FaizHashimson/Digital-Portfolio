@@ -524,7 +524,7 @@ ul {
 }
 .norisah-heading-slash {
   display: inline-block;
-  margin-left: 0;
+  margin-left: 0.13em;
   margin-right: 0.13em;
   transform: scaleY(1.14);
   transform-origin: center;
