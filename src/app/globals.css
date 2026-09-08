@@ -526,7 +526,7 @@ ul {
   display: inline-block;
   margin-left: 0.13em;
   margin-right: 0.13em;
-  transform: scaleY(1.14);
+  transform: scaleY(1.25) rotate(8deg);
   transform-origin: center;
 }
 @media (min-width: 1101px) {
