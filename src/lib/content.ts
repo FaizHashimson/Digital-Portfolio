@@ -50,7 +50,7 @@ export const projects = [
     heading: "Norisah Selera Desa",
     category: "catering + menus",
     theme: "light",
-    description: "A catering site with an easy-to-update menu.",
+    description: "A catering site that makes ordering easy.",
     features: [
       "Quick WhatsApp orders",
       "Delivery + location links",
