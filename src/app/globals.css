@@ -291,9 +291,6 @@ ul {
   aspect-ratio: 1.23;
   background: inherit;
 }
-.project-frame--norisah-selera.image-frame--project .image-area {
-  aspect-ratio: 2816 / 1516;
-}
 .image-area img {
   object-fit: contain;
 }
