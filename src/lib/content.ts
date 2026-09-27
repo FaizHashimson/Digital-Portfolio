@@ -54,7 +54,7 @@ export const projects = [
     features: [
       "Quick WhatsApp orders",
       "Delivery + location links",
-      "Simple content updates",
+      "Made for desktop, tablet + mobile",
     ],
     tools: "Next.js · React · Cloudflare",
     href: "https://norisahseleradesa.pages.dev/",
